@@ -1,7 +1,8 @@
-### Hi there 👋😊
+### Hi, I'm Pedram Yamini👋😊
 
 - **C# Developer**
 - **ASP.Net Core**
+- **Software Engineering at University of Kurdistan
 
 - 📫 How to reach me: pedramyamini92@gmail.com
 
