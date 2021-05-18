@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋😊
 
-- **C# Developer**
+- `C# Developer`
 - **ASP.Net Core**
 
 - 📫 How to reach me: pedramyamini92@gmail.com
